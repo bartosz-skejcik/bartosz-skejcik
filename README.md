@@ -1,3 +1,5 @@
+[![MasterHead](https://i.pinimg.com/736x/cc/54/f0/cc54f0b28376026979cec60f47f1469e.jpg)]
+
 # Hi there, I'm Bartek 👋 
 
 ## I'm a Student, Developer, and Freelancer from Poland!! 🇵🇱
