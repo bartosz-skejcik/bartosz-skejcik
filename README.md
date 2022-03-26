@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Bartek - aka [codeSTACKr][youtube] 👋 
 
 ## I'm a Student, Developer, and Freelancer from Poland!! 🇵🇱
 
