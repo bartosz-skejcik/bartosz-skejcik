@@ -50,8 +50,6 @@
 
 ---
 
-:zap: GitHub Stats
-
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bartosz-skejcik&show_icons=true&hide_border=false&title_color=06b6d4&icon_color=2563eb&bg_color=18181b&text_color=9ca3af&border_color=171717" />
 
 
