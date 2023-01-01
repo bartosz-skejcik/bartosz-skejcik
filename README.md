@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bartek Paczesny
 =======================================================================================================================================
 
-Student. Full-stack Developer
+Student and (semi)Full-stack Developer
 -----------------------------
 
 I'm a 17 year old student at ZS14 technical school in Warsaw, Poland. I'm a front-end developer with a passion for creating beautiful and functional websites. I'm also a big fan of Next.js framework and Tailwind CSS library.
