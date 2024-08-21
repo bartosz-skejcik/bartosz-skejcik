@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Go Analytics](https://github.com/bartosz-skejcik/go-analytics)
 
-- 🌱 I’m currently learning **GoLang and Next.js**
+- 🌱 I’m currently learning **GoLang and Svelte**
 
 - 👨‍💻 All of my projects are available at [https://dev.paczesny.pl](https://dev.paczesny.pl)
 
