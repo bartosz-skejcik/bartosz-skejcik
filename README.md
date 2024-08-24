@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bartek Paczesny</h1>
 <h3 align="center">Student and a Front-end Developer, I'm a 19 year IT Technician from Poland. I'm a fullstack developer with a passion for creating beautiful ,functional and responsive websites as well as optimized, secure and performant backends. I'm also a big fan of Next.js, TailwindCSS and GoLang.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bartosz-skejcik&label=Profile%20views&color=f52424&style=flat" alt="bartosz-skejcik" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bartosz-skejcik&label=Profile%20views&color=f52424&style=flat" alt="bartosz-skejcik" />
+  <a href="https://wakatime.com/@018dc81e-bc53-4848-95f9-deb9c3fd535d"><img src="https://wakatime.com/badge/user/018dc81e-bc53-4848-95f9-deb9c3fd535d.svg" alt="Total time coded since Feb 20 2024" /></a>
+</p>
 
 - 🌍 I'm based in Warsaw, Poland
 
