@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bartek Paczesny</h1>
-<h3 align="center">Student and a Front-end Developer, I'm a 19 year IT Technician from Poland. I'm a fullstack developer with a passion for creating beautiful ,functional and responsive websites as well as optimized, secure and performant backends. I'm also a big fan of Next.js, TailwindCSS and GoLang.</h3>
-
+<h1 align="left">Hi 👋, I'm Bartek Paczesny</h1>
+<h3 align="left">Hey, I'm a <code>fullstack developer</code> and a Computer Science student from Poland. I’m obsessed with figuring out how stuff works and making cool things with code
+I've been coding for <code>5 years</code>, including a <code>2-month internship</code> as a <code>Junior Software Engineer</code>. I taught myself everything, and I'm all about clean design and making sure what I build works for everyone.
+<br />
+<br />
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bartosz-skejcik&label=Profile%20views&color=f52424&style=flat" alt="bartosz-skejcik" />
   <a href="https://wakatime.com/@018dc81e-bc53-4848-95f9-deb9c3fd535d"><img src="https://wakatime.com/badge/user/018dc81e-bc53-4848-95f9-deb9c3fd535d.svg" alt="Total time coded since Feb 20 2024" /></a>
@@ -8,9 +10,9 @@
 
 - 🌍 I'm based in Warsaw, Poland
 
-- 🔭 I’m currently working on [Go Analytics](https://github.com/bartosz-skejcik/go-analytics)
+- 🔭 I’m currently working on a [content planner desktop app for content creators](https://github.com/bartosz-skejcik/content-planner)
 
-- 🌱 I’m currently learning **GoLang and Svelte**
+- 🌱 I’m currently learning **Zig**
 
 - 👨‍💻 All of my projects are available at [https://dev.paczesny.pl](https://dev.paczesny.pl)
 
