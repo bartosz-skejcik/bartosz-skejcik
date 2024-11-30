@@ -7,6 +7,7 @@ I've been coding for <code>5 years</code>, including a <code>2-month internship<
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bartosz-skejcik&label=Profile%20views&color=f52424&style=flat" alt="bartosz-skejcik" />
   <a href="https://wakatime.com/@018dc81e-bc53-4848-95f9-deb9c3fd535d"><img src="https://wakatime.com/badge/user/018dc81e-bc53-4848-95f9-deb9c3fd535d.svg" alt="Total time coded since Feb 20 2024" /></a>
+  <a href="[https://github.com/The-Grindhouse](https://github.com/The-Grindhouse/guidelines)"><img src="https://img.shields.io/badge/Grind-Compliant-blue" alt="Grind Compliant"/></a>
 </p>
 
 - 🌍 I'm based in Warsaw, Poland
