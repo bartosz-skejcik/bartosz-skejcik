@@ -14,7 +14,7 @@ I've been coding for <code>5 years</code>, including a <code>2-month internship<
 
 - 🔭 I’m currently working on a [content planner desktop app for content creators](https://github.com/bartosz-skejcik/content-planner)
 
-- 🌱 I’m currently learning **Zig**
+- 🌱 I’m currently learning **Rust** 🦀
 
 - 👨‍💻 All of my projects are available at [https://dev.paczesny.pl](https://dev.paczesny.pl)
 
